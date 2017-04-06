@@ -1,7 +1,6 @@
 ## Introduction
 
-The world has a lot of information that could be useful to many, many people, if it were, collected/ stored/ organized in more useful ways. 
-That is, curated better. 
+The world has a lot of information that could be useful to many, many people -  if it were, collected/ stored/ organized in more useful ways. That is, curated better. 
 
 Supalist is an attempt to curate information in a certain format that many may find useful: lists. 
 Not all information is useful in this format, but at the very least, a few hundred billion lists should be of 
