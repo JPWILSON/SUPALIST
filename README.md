@@ -15,8 +15,11 @@ been trying to play catchup, learning computer science and web development.
 * In my attempt to be at the very least, employable when I get to the US, I am learning computer science and machine learning, 
   so I am quite busy with the 
      --- [Self Driving Car](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013SDC "Nanodegree Page") 
+     
      --- [Deep Learning Foundations](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101 "DLF Nanodegree Page")
-     --- [Full Stack Web Developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004 "FSWD Nanodegree Page") 
+     
+     --- [Full Stack Web Developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004 "FSWD Nanodegree Page")
+     
   Nanodgrees by [Udacity](https://www.udacity.com/ "Udacity's homepage")
   
   Anyway, lets see where this goes!
