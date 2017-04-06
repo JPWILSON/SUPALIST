@@ -15,7 +15,7 @@ been trying to play catchup, learning computer science and web development.
 * In my attempt to be at the very least, employable when I get to the US, I am learning computer science and machine learning, 
   so I am quite busy with the 
   
-     --- [Self Driving Car](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013SDC "Nanodegree Page") 
+     --- [Self Driving Car](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013 "SDC Nanodegree Page") 
      
      --- [Deep Learning Foundations](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101 "DLF Nanodegree Page")
      
